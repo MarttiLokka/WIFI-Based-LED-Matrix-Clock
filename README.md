@@ -8,6 +8,19 @@ Unlike the [RTC-Based LED Matrix Clock](https://github.com/MarttiLokka/RTC-Based
 
 The project is intended for a **Raspberry Pi Pico 2W** and a MAX7219-based LED matrix.
 
+## Video
+
+See the clock in action:
+
+[![LED Matrix Clock](https://img.youtube.com/vi/V2KkgDdk9uc/maxresdefault.jpg)](https://www.youtube.com/watch?v=V2KkgDdk9uc)
+
+The video demonstrates both versions of the clock:
+
+* [WIFI-Based LED Matrix Clock](https://github.com/MarttiLokka/WIFI-Based-LED-Matrix-Clock)
+* [RTC-Based LED Matrix Clock](https://github.com/MarttiLokka/RTC-Based-LED-Matrix-Clock)
+
+Both versions use the same font and display configuration. The main difference is the hardware and how the clock obtains the time.
+
 ## Features
 
 - WiFi-based clock without an RTC module
