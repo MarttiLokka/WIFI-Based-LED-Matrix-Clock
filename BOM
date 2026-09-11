@@ -1,0 +1,4 @@
+Parts list
+1, MAX7219 4-in-1 32×8 LED Matrix Display
+2, Raspberry Pi Pico 2W. Might work with other wifi boards with some modification.
+3, Some wire to connect them. Beware of loose wires and bad connections.
