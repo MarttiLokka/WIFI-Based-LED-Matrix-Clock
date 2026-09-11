@@ -1,5 +1,7 @@
 # WIFI-Based LED Matrix Clock
 
+![Clock](clock.jpg)
+
 A simple WiFi-connected LED matrix clock based on the **"Hello World"** and **Font** examples from the [MajicDesigns MD_Parola](https://github.com/MajicDesigns/MD_Parola) library.
 
 Unlike the [RTC-Based LED Matrix Clock](https://github.com/MarttiLokka/RTC-Based-LED-Matrix-Clock), this version does **not** use an RTC module. The clock gets the current time from an NTP server over WiFi.
